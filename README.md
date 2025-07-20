@@ -44,11 +44,13 @@ How to Use:
 3. Interact with the visuals and explore the insights
 
 
-Contact:
-Author: Janardhan
-Email : janadrjt6604@gmail.com  
-[LinkedIn](www.linkedin.com/in/janardhan-) 
-
+Contact:  (If you'd like to connect, collaborate, or provide feedback)
+ 
+Author : Janardhan
+  
+-Email: janadrjt6604@gmail.com  
+-LinkedIn: [linkedin.com/in/janardhan-](https://www.linkedin.com/in/janardhan-)  
+-GitHub: [ggithub.com/jana6604](https://github.com/jana6604)
 
 License:
 This project is licensed under the MIT License.
